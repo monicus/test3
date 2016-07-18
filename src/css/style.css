@@ -1,0 +1,19 @@
+.msame_Header {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 14px;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom-style: none;
+    border-color: transparent;
+    width: 100%;
+}
+
+.msame_unauth .msame_Header_name:hover {
+    color: #0078d7;
+}
+
+.msame_Header_chev {
+    display: none;
+}
+

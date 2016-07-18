@@ -1,0 +1,108 @@
+@import "oculus-sans.css";
+#ocolus {
+	color: #323436;
+	text-align: center;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+}
+#oculus ul li {
+	padding: 0;
+}
+#oculus h3 {
+	font: 400 30px/24px "Oculus Sans", "Arial", "Helvetica", sans-serif;
+}
+
+#oculus a {
+    color: #8d8e8f;
+    transition: color 250ms;
+    background: transparent;
+}
+
+#oculus ._4f_5 {
+    background: #fff;
+    padding-bottom: 0;
+}
+#oculus ._4f_6 {
+    list-style: none;
+    margin: 0;
+    max-width: none;
+    min-width: 0;
+    padding: 0;
+}
+#oculus ._4f_7 {
+    background: #282828;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+#oculus ._4f_6:before,
+#oculus ._4f_7:before,
+#oculus ._4f_6:after,
+#oculus ._4f_7:after {
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+}
+
+#oculus ._4367 a,
+#oculus ._4367 a:hover,
+#oculus ._4367 a:visited {
+    text-decoration: none;
+}
+
+#oculus ._4f_8 {
+    display: block;
+}
+#oculus ._4f_a {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    opacity: .3;
+    text-align: center;
+    transition: transform .3s, opacity .3s;
+    width: 100%;
+}
+#oculus ._4f_7:hover ._4f_a {
+    opacity: .8;
+    transform: scale(1.1, 1.1);
+}
+#oculus ._4f_b {
+    box-sizing: border-box;
+    padding: 0 32px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    width: 100%;
+}
+#oculus ._4f_c {
+    color: #a4a5a6;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-align: center;
+    margin: 0;
+}
+#oculus ._4f_d {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    text-align: center;
+}
+
+@media screen and (min-width: 767px) {
+	#oculus ._4f_7 {
+	    float: left;
+	    width: 33.33333333%;
+	}
+}

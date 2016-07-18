@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Oculus Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Oculus Sans Regular"), local("OculusSans-Regular"), url(../fonts/oculus/eosixMqH5Qq.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans";
+    font-style: italic;
+    font-weight: 400;
+    src: local("Oculus Sans Regular Italic"), local("OculusSans-RegularItalic"), url(../fonts/oculus/cETXf6NnM-W.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Oculus Sans SemiBold"), local("OculusSans-SemiBold"), url(../fonts/oculus/FuBm7mI-CXG.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans";
+    font-style: italic;
+    font-weight: 700;
+    src: local("Oculus Sans SemiBold Italic"), local("OculusSans-SemiBoldItalic"), url(../fonts/oculus/Iil_2HbQqQO.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Oculus Sans Black"), local("OculusSans-Black"), url(../fonts/oculus/gvgtdhHBsqT.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans KR";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Oculus Sans KR Regular"), local("OculusSansKR-Regular"), url(../fonts/oculus/ic_BWbXaf-F.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans KR";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Oculus Sans KR SemiBold"), local("OculusSansKR-SemiBold"), url(../fonts/oculus/kd4XVEQXL37.woff) format("woff")
+}
+@font-face {
+    font-family: "Oculus Sans KR";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Oculus Sans KR Bold"), local("OculusSans-Bold"), url(../fonts/oculus/4f5spsQT6Yr.woff) format("woff")
+}
+#bootloader_JiFFs {
+    height: 42px;
+}
+.bootloader_JiFFs {
+    display: block!important;
+}
